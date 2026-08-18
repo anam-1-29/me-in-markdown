@@ -6,7 +6,8 @@ A fun fact about me is that I have three older siblings. My favorite color is gr
 [Click here for a playlist of songs I like.](https://open.spotify.com/playlist/1BLat5asjLW5hpnxtncTKH?si=P1g3Gk0SRo-tE1D_SmYfHw)
 
 *Also, a collage of images that represent me is:* 
-![Collage](https://github.com/user-attachments/assets/d3ada374-5638-468f-8cae-2ece06ef5c7c)
+
+![Collage](Collage.jpeg)
 
 Some accomplishments I had last year were basketball awards and straight A's. This year, I want similar accomplishments in both my sports and my academics. I want to meet more people this year and grow as a person and as a student. I would also like to learn new skills in and out of class. In school, I want to learn how to become a better writer and coder and to solve complex math equations. Outside of school, I would like to be a better basketball and soccer player as well as learn a new skill such as playing an instrument or learning a new language.
 
